@@ -13,13 +13,13 @@
 
 <!-------Linguanges mais usadas e o total de stars, commits, pull requests (PRs), total de issues e contribuições-->
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonAlexAndrade&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarlonAlexAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/MarlonAlexAndrade">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonAlexAndrade&layout=compact&langs_count=7&theme=gotham"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarlonAlexAndrade&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
-<!-----Troféus---->
-[![trophy](https://github-profile-trophy.vercel.app/?username=oliota&row=1&&margin-w=30)](https://github.com/MarlonAlexAndrade)
+<!-----Troféus------>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarlonAlexAndrade&theme=nord&username=MarlonAlexAndrade&row=1&&margin-w=30)](https://github.com/MarlonAlexAndrade)
   
  <!-------Snake devora minhas contribuições---->
  ![Snake animation](https://github.com/MarlonAlexAndrade/MarlonAlexAndrade/blob/output/github-contribution-grid-snake.svg)
