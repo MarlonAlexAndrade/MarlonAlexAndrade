@@ -22,5 +22,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarlonAlexAndrade&theme=nord&username=MarlonAlexAndrade&row=1&&margin-w=30)](https://github.com/MarlonAlexAndrade)
   
  <!-------Snake devora minhas contribuições  ---->
- ![Snake animation](https://github.com/MarlonAlexAndrade/MarlonAlexAndrade/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/MarlonAlexAndrade/MarlonAlexAndrade/blob/output/github-contribution-grid-snake.svg) -->
 
