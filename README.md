@@ -18,7 +18,4 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarlonAlexAndrade&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
   
-<!-----Troféus------>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarlonAlexAndrade&theme=nord&username=MarlonAlexAndrade&row=1&&margin-w=30)](https://github.com/MarlonAlexAndrade)
-  
 
