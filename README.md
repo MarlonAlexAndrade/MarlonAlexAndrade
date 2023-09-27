@@ -1,7 +1,7 @@
 
 <!----Texto----->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&width=500&height=80&size=20&multiline=true&lines=I'm+Marlon+Alex+Andrade;Student+of+Full+Stack+;On+UNIASSELVI+And+ProWay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&width=500&height=80&size=20&multiline=true&lines=I'm+Marlon+Alex+Andrade;Student+of+Java+;On+UNIASSELVI+And+Entra21)](https://git.io/typing-svg)
 
 <!----Logo numero de visitantes----->
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=MarlonAlexAndrade&color=40E0D0&label=Welcome+to+my+profile+you+are+visitor+nº:)
@@ -17,8 +17,4 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonAlexAndrade&layout=compact&langs_count=7&theme=gotham"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarlonAlexAndrade&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
-  
-<!-----Troféus------>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarlonAlexAndrade&theme=nord&username=MarlonAlexAndrade&row=1&&margin-w=30)](https://github.com/MarlonAlexAndrade)
-  
 
