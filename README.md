@@ -7,7 +7,6 @@
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=MarlonAlexAndrade&color=40E0D0&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 <!----- Redes Sociais----->
-[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marlon.itapira/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=marlonalexandrade@gmail.com&su=Contato+-+via+perfil+github&body=Ol%C3%A1+Marlon+Tudo+bem?&tf=cm)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-andrade-920070210/)&nbsp;
 
