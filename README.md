@@ -1,7 +1,9 @@
 <div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=40E0D0&center=true&vCenter=true&multiline=true&width=520&height=80&lines=Hi%2C+I'm+Marlon+Alex+Andrade;Python+Dev+%7C+Automation+%7C+Applied+AI)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarlonAlexAndrade&color=40E0D0&style=flat-square&label=Visitors)
+
 </div>
 
 ---
